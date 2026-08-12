@@ -69,6 +69,6 @@ This project was submitted as coursework for the "Optimisation numérique et sci
 
 ## Authors
 
-**Valentin Cherin** — [GitHub](https://github.com/votre-profil)
+**Valentin Cherin** — [GitHub](https://github.com/vacheee)
 **Elhabib Touisse** — [GitHub](https://github.com/elhabib-touisse)
 **Hervé Nikiema**
